@@ -60,6 +60,7 @@ A very common question being asked when making videos on YouTube is "How do I kn
 -   [Bensound](https://www.bensound.com/) [©️](https://www.bensound.com/licensing) - Very popular website that many content creators have been using for their videos.
 -   [ccMixter](http://ccmixter.org/)  -  [©️](http://ccmixter.org/how-to-attribute-ccmixter-tracks) - Lots of tracks to use with a wide variety.
 -   [Free Music Archive](http://freemusicarchive.org/)  - An library of high-quality audio downloads directed by  [WFMU](https://wfmu.org/). Has music under every type of license.
+- [FreePD](https://freepd.com/) - Music under CC0 license of various moods.
 -   [Freesound](https://freesound.org/)  - A database of music, sounds, samples and recordings. Each file has its own license, but has many under the CC0 license.
 -   [SoundBible](http://soundbible.com/)  -  [©️](http://soundbible.com/about.php) - A whole bunch of sound effects, sound clips, and sounds.
 -   [Unminus](https://www.unminus.com/)  - [©️](https://www.unminus.com/license)  Inspired by Unsplash, Unminus offers free Music for YouTube Videos, Podcasts and Apps. No copyright (CC0)
@@ -133,8 +134,8 @@ All of the Stock photos below are under a CC0 License.
 - [Newtubers](https://www.reddit.com/r/newtubers) - A community for small content creators. Has a subreddit and Discord channel to talk with likeminded creators.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwOTUzNzA0Myw5MDAxOTQxNzMsMTc1ND
-gyODA3NCwtMzE0ODUxMjU0LDYwODU3NjEwMSwtMTYwMzAwNjIw
-LDE5MTAxNzM2MTYsLTE1MTIwOTg4MjYsLTIwNDMxNDU2NDMsLT
-E5NjczMTU5ODldfQ==
+eyJoaXN0b3J5IjpbMTI1NzYwNjQxNywtODA5NTM3MDQzLDkwMD
+E5NDE3MywxNzU0ODI4MDc0LC0zMTQ4NTEyNTQsNjA4NTc2MTAx
+LC0xNjAzMDA2MjAsMTkxMDE3MzYxNiwtMTUxMjA5ODgyNiwtMj
+A0MzE0NTY0MywtMTk2NzMxNTk4OV19
 -->
