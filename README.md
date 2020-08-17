@@ -58,10 +58,10 @@ A very common question being asked when making videos on YouTube is "How do I kn
 ## Free
 **Each website has a different license, make sure you read and understand them before using the music from the websites below.**
 -   [Bensound](https://www.bensound.com/) [©️](https://www.bensound.com/licensing) - Very popular website that many content creators have been using for their videos.
--   [ccMixter](http://ccmixter.org/)  -  [©️](http://ccmixter.org/how-to-attribute-ccmixter-tracks) Lots of tracks to use with a wide variety.
+-   [ccMixter](http://ccmixter.org/)  -  [©️](http://ccmixter.org/how-to-attribute-ccmixter-tracks) - Lots of tracks to use with a wide variety.
 -   [Free Music Archive](http://freemusicarchive.org/)  - An library of high-quality audio downloads directed by  [WFMU](https://wfmu.org/). Has music under every type of license.
 -   [Freesound](https://freesound.org/)  - A database of music, sounds, samples and recordings. Each file has its own license, but has many under the CC0 license.
--   [SoundBible](http://soundbible.com/)  -  [©️](http://soundbible.com/about.php)  Thousands of free sound effects, sound clips, and straight up sounds.
+-   [SoundBible](http://soundbible.com/)  -  [©️](http://soundbible.com/about.php) - A whole bunch of sound effects, sound clips, and sounds.
 -   [WOWA](https://www.wowa.me/)  -  [©️](https://www.wowa.me/cc0)  Download Royalty Free Music for YouTube Videos, Podcasts and Apps. No Copyright CC0 Music inspired by Unsplash.
 # Stock Footage
 Sometimes you need video footage of things you can't film yourself. If this is the case, stock footage can be very handy to use. But often this footage can be extremely expensive, luckily, there are plenty of websites that can provide you with footage just as good without having to pay anything. Some of these don't even need credit. **Despite what the description of each website says, it is a good idea to double check on the website what the license is.**
@@ -133,8 +133,8 @@ All of the Stock photos below are under a CC0 License.
 - [Newtubers](https://www.reddit.com/r/newtubers) - A community for small content creators. Has a subreddit and Discord channel to talk with likeminded creators.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwODg1NTE0MSw5MDAxOTQxNzMsMTc1ND
-gyODA3NCwtMzE0ODUxMjU0LDYwODU3NjEwMSwtMTYwMzAwNjIw
-LDE5MTAxNzM2MTYsLTE1MTIwOTg4MjYsLTIwNDMxNDU2NDMsLT
-E5NjczMTU5ODldfQ==
+eyJoaXN0b3J5IjpbLTMwNDYyNjQ1LDkwMDE5NDE3MywxNzU0OD
+I4MDc0LC0zMTQ4NTEyNTQsNjA4NTc2MTAxLC0xNjAzMDA2MjAs
+MTkxMDE3MzYxNiwtMTUxMjA5ODgyNiwtMjA0MzE0NTY0MywtMT
+k2NzMxNTk4OV19
 -->
