@@ -48,6 +48,7 @@ Many years ago, all you had to worry about was Windows Movie Maker. We live in m
 -   [VYOO](http://www.veed.io/vyoo)  -  [©️](http://www.veed.io/vyoo/terms)  Beautiful, Free Vertical Videos.
 
 ## Stock Photos
+All of the S
 -   [ABSFreePic](http://absfreepic.com/)  - A high-resolution and absolutely free photos stock site.
 -   [Altphotos](https://altphotos.com/)  - Handpicked free high-resolution photos added daily.
 -   [Barn Images](https://barnimages.com/)  - Barn Images offers you a collection of free high-resolution non-stock photography.
@@ -97,5 +98,6 @@ Many years ago, all you had to worry about was Windows Movie Maker. We live in m
 - [Newtubers](https://www.reddit.com/r/newtubers) - A community for small content creators. Has a subreddit and Discord channel to talk with likeminded creators.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTgxODY1NjAsLTEwMjEwMzMwMF19
+eyJoaXN0b3J5IjpbMTg2NzY3MzY4NCwtMTM5ODE4NjU2MCwtMT
+AyMTAzMzAwXX0=
 -->
