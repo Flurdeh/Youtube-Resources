@@ -60,8 +60,7 @@ Sometimes you need video footage of things you can't film yourself. If this is t
 -   [Mazwai](http://mazwai.com/)  - Great collection of free creative commons HD video clips & footages. Check each video for licensing terms.
 -   [Pond5](https://www.pond5.com/free)  - Thousands of historic media files that are public domain.
 - [Pixabay](https://pixabay.com/ "https://pixabay.com/") - Plenty of videos, make sure to read the license, since some may have a different license on this page.
--   [Vidsplay](http://www.vidsplay.com/)  -  [©️](http://www.vidsplay.com/terms.html)  Free HD stock footage (Attribution required).
--   [VYOO](http://www.veed.io/vyoo)  -  [©️](http://www.veed.io/vyoo/terms)  Beautiful, Free Vertical Videos.
+-   [VYOO](http://www.veed.io/vyoo)  -  [CC0](http://www.veed.io/vyoo/terms)  Beautiful, Free Vertical Videos.
 
 ## Stock Photos
 All of the Stock photos below are under a CC0 License.
@@ -122,7 +121,7 @@ All of the Stock photos below are under a CC0 License.
 - [Newtubers](https://www.reddit.com/r/newtubers) - A community for small content creators. Has a subreddit and Discord channel to talk with likeminded creators.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMTkwMzc5OSwtMTYwMzAwNjIwLDE5MT
-AxNzM2MTYsLTE1MTIwOTg4MjYsLTIwNDMxNDU2NDMsLTE5Njcz
-MTU5ODldfQ==
+eyJoaXN0b3J5IjpbNjA4NTc2MTAxLC0xNjAzMDA2MjAsMTkxMD
+E3MzYxNiwtMTUxMjA5ODgyNiwtMjA0MzE0NTY0MywtMTk2NzMx
+NTk4OV19
 -->
