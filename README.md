@@ -59,8 +59,7 @@ A very common question being asked when making videos on YouTube is "How do I kn
 **Each website has a different license, make sure you read and understand them before using the music from the websites below.**
 -   [Bensound](https://www.bensound.com/) [©️](https://www.bensound.com/licensing) - Very popular website that many content creators have been using for their videos.
 -   [ccMixter](http://ccmixter.org/)  -  [©️](http://ccmixter.org/how-to-attribute-ccmixter-tracks) Lots of tracks to use with a wide variety.
--   [Free Loops](http://free-loops.com/)  -  [©️](http://free-loops.com/creative-commons-audio.php)  Free loops and audio clip.
--   [Free Music Archive](http://freemusicarchive.org/)  -  [©️](https://creativecommons.org/)  An interactive library of high-quality, legal audio downloads directed by  [WFMU](https://wfmu.org/), the most renowned freeform radio station in America.
+-   [Free Music Archive](http://freemusicarchive.org/)  -  [©️](https://creativecommons.org/)  An library of high-quality, legal audio downloads directed by  [WFMU](https://wfmu.org/), the most renowned freeform radio station in America.
 -   [Freesound](https://freesound.org/)  -  [©️](https://freesound.org/help/about/)  Collaborative database of audio snippets, samples, recordings and bleeps.
 -   [Internet Archive’s Netlabels Collection](https://archive.org/details/netlabels)  -  [©️](https://creativecommons.org/)  Netlabels collection hosts complete, freely downloadable/streamable.
 -   [Jamendo](https://www.jamendo.com/start)  -  [©️](https://creativecommons.org/)  Independent music community with a large collect of creative commons licensed music.
@@ -138,7 +137,8 @@ All of the Stock photos below are under a CC0 License.
 - [Newtubers](https://www.reddit.com/r/newtubers) - A community for small content creators. Has a subreddit and Discord channel to talk with likeminded creators.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NDgyODA3NCwtMzE0ODUxMjU0LDYwOD
-U3NjEwMSwtMTYwMzAwNjIwLDE5MTAxNzM2MTYsLTE1MTIwOTg4
-MjYsLTIwNDMxNDU2NDMsLTE5NjczMTU5ODldfQ==
+eyJoaXN0b3J5IjpbLTI1MzI4NjQ2MCwxNzU0ODI4MDc0LC0zMT
+Q4NTEyNTQsNjA4NTc2MTAxLC0xNjAzMDA2MjAsMTkxMDE3MzYx
+NiwtMTUxMjA5ODgyNiwtMjA0MzE0NTY0MywtMTk2NzMxNTk4OV
+19
 -->
