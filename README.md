@@ -32,11 +32,11 @@ Many years ago, all you had to worry about was Windows Movie Maker. We live in m
 - [Shotcut](https://shotcut.org/) - `Windows/Mac/Linux`
 
 ## Paid
-- [Adobe Premiere](https://www.adobe.com/products/premiere.html) / After Effects
+- [Adobe Premiere](https://www.adobe.com/products/premiere.html) / [After Effects](https://www.adobe.com/products/aftereffects.html) `Windows/Mac` - Great software, but as with any adobe product, you pay a hefty price for it.
 
 - [Vegas Pro](https://www.vegascreativesoftware.com/us/) `Windows` - Has been around for a while, keep an eye out on Humble Bundle, as they generally have a bundle with Vegas Pro about twice a year.
 
-- Apple Final Cut Pro
+- [Apple Final Cut Pro](https://www.apple.com/nl/final-cut-pro/)
 # Image editing software
 Creating thumbnails, a banner, and a logo are important parts of your YouTube channel. These are some image editing softwares you can use.
 ## Free
@@ -114,6 +114,6 @@ All of the Stock photos below are under a CC0 License.
 - [Newtubers](https://www.reddit.com/r/newtubers) - A community for small content creators. Has a subreddit and Discord channel to talk with likeminded creators.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MTQ2MjIwNiwtMTUxMjA5ODgyNiwtMj
+eyJoaXN0b3J5IjpbMjEyMTU4ODE0NCwtMTUxMjA5ODgyNiwtMj
 A0MzE0NTY0MywtMTk2NzMxNTk4OV19
 -->
