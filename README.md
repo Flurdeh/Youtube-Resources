@@ -62,7 +62,7 @@ A very common question being asked when making videos on YouTube is "How do I kn
 -   [Free Music Archive](http://freemusicarchive.org/)  - An library of high-quality audio downloads directed by  [WFMU](https://wfmu.org/). Has music under every type of license.
 -   [Freesound](https://freesound.org/)  - A database of music, sounds, samples and recordings. Each file has its own license, but has many under the CC0 license.
 -   [SoundBible](http://soundbible.com/)  -  [©️](http://soundbible.com/about.php) - A whole bunch of sound effects, sound clips, and sounds.
--   [Unminus](https://www.unminus.com/)  - [©️](https://www.unminus.com/license)  Inspired by Unsplash, Unminus of Free Music for YouTube Videos, Podcasts and Apps. No Copyright CC0 Music inspired by Unsplash.
+-   [Unminus](https://www.unminus.com/)  - [©️](https://www.unminus.com/license)  Inspired by Unsplash, Unminus offers free Music for YouTube Videos, Podcasts and Apps. No copyright (CC0)
 # Stock Footage
 Sometimes you need video footage of things you can't film yourself. If this is the case, stock footage can be very handy to use. But often this footage can be extremely expensive, luckily, there are plenty of websites that can provide you with footage just as good without having to pay anything. Some of these don't even need credit. **Despite what the description of each website says, it is a good idea to double check on the website what the license is.**
 ## Stock video
@@ -133,8 +133,8 @@ All of the Stock photos below are under a CC0 License.
 - [Newtubers](https://www.reddit.com/r/newtubers) - A community for small content creators. Has a subreddit and Discord channel to talk with likeminded creators.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjUzMzU5NzIsOTAwMTk0MTczLDE3NT
-Q4MjgwNzQsLTMxNDg1MTI1NCw2MDg1NzYxMDEsLTE2MDMwMDYy
-MCwxOTEwMTczNjE2LC0xNTEyMDk4ODI2LC0yMDQzMTQ1NjQzLC
-0xOTY3MzE1OTg5XX0=
+eyJoaXN0b3J5IjpbLTgwOTUzNzA0Myw5MDAxOTQxNzMsMTc1ND
+gyODA3NCwtMzE0ODUxMjU0LDYwODU3NjEwMSwtMTYwMzAwNjIw
+LDE5MTAxNzM2MTYsLTE1MTIwOTg4MjYsLTIwNDMxNDU2NDMsLT
+E5NjczMTU5ODldfQ==
 -->
