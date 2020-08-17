@@ -98,14 +98,14 @@ All of the Stock photos below are under a CC0 License.
 ## Paid Resources
 -   [Adobe Stock](https://stock.adobe.com/)  - Photos, Illustrations, Vectors.
 -   [Fotolia](https://us.fotolia.com/)  - Photos, Illustrations, Vectors, Videos.
--   [Inky Deals](https://www.inkydeals.com/)  - Premium resources at insane discounts.
--   [Shutterstock](https://www.shutterstock.com/)  - Photos, Vectors, Editorial, Footages, Music.
--   [Stocksy](https://www.stocksy.com/)  - "Cliché-free" Photos.
--   [Graphic River](https://graphicriver.net/)  - Hand-reviewed graphic assets from a community of designers. .
+-   [Inky Deals](https://www.inkydeals.com/)  - Various resources with discounts.
+-   [Shutterstock](https://www.shutterstock.com/)  - Everybody knows Shutterstock. Photos, Vectors, Editorial, Footages, Music.
+-   [Stocksy](https://www.stocksy.com/)  - Photos & Videos.
+-   [Graphic River](https://graphicriver.net/)  - Graphic Assets
 # Communities
 - [Newtubers](https://www.reddit.com/r/newtubers) - A community for small content creators. Has a subreddit and Discord channel to talk with likeminded creators.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NzY1OTYxMiwtMTI3NzU3MjgxMywtMT
-M5ODE4NjU2MCwtMTAyMTAzMzAwXX0=
+eyJoaXN0b3J5IjpbLTk5NDY4NDc4LC0xMjc3NTcyODEzLC0xMz
+k4MTg2NTYwLC0xMDIxMDMzMDBdfQ==
 -->
