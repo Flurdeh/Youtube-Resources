@@ -60,8 +60,7 @@ A very common question being asked when making videos on YouTube is "How do I kn
 -   [Bensound](https://www.bensound.com/) [©️](https://www.bensound.com/licensing) - Very popular website that many content creators have been using for their videos.
 -   [ccMixter](http://ccmixter.org/)  -  [©️](http://ccmixter.org/how-to-attribute-ccmixter-tracks) Lots of tracks to use with a wide variety.
 -   [Free Music Archive](http://freemusicarchive.org/)  - An library of high-quality audio downloads directed by  [WFMU](https://wfmu.org/). Has music under every type of license.
--   [Freesound](https://freesound.org/)  -  [©️](https://freesound.org/help/about/)  Collaborative database of audio snippets, samples, recordings and bleeps.
--   [Internet Archive’s Netlabels Collection](https://archive.org/details/netlabels)  -  [©️](https://creativecommons.org/)  Netlabels collection hosts complete, freely downloadable/streamable.
+-   [Freesound](https://freesound.org/)  - A database of music, sounds, samples and recordings. Each file has its own license, but has many under the CC0 license.
 -   [Jamendo](https://www.jamendo.com/start)  -  [©️](https://creativecommons.org/)  Independent music community with a large collect of creative commons licensed music.
 -   [Jukedeck](https://www.jukedeck.com/)  -  [©️](https://www.jukedeck.com/licensing)  Machine learning powered royalty-free original music.
 -   [Sound Image](http://soundimage.org/)  -  [©️](https://creativecommons.org/licenses/by/4.0/)  Over 1000 tracks of free music and sound effects for your projects by Eric Matyas.
@@ -137,8 +136,8 @@ All of the Stock photos below are under a CC0 License.
 - [Newtubers](https://www.reddit.com/r/newtubers) - A community for small content creators. Has a subreddit and Discord channel to talk with likeminded creators.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAwMTk0MTczLDE3NTQ4MjgwNzQsLTMxND
-g1MTI1NCw2MDg1NzYxMDEsLTE2MDMwMDYyMCwxOTEwMTczNjE2
-LC0xNTEyMDk4ODI2LC0yMDQzMTQ1NjQzLC0xOTY3MzE1OTg5XX
-0=
+eyJoaXN0b3J5IjpbMTIzOTExMjUxMCw5MDAxOTQxNzMsMTc1ND
+gyODA3NCwtMzE0ODUxMjU0LDYwODU3NjEwMSwtMTYwMzAwNjIw
+LDE5MTAxNzM2MTYsLTE1MTIwOTg4MjYsLTIwNDMxNDU2NDMsLT
+E5NjczMTU5ODldfQ==
 -->
