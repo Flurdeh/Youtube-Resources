@@ -51,6 +51,8 @@ Creating thumbnails, a banner, and a logo are important parts of your YouTube ch
 
 - [Affinity Photo](https://affinity.serif.com/en-gb/photo/) `Windows/Mac` - Looks similar-ish to Photoshop and is more geared to photo editing but can definitely do thumbnails. One time purchase.
 # Music & Sounds
+A very common question being asked when making videos on youtube is "How do I know what music I can use?" and "Where can I find music for my videos?" 
+
 -   [Bensound](https://www.bensound.com/)  -  [©️](https://www.bensound.com/licensing)  Royalty free music by Bensound.
 -   [ccMixter](http://ccmixter.org/)  -  [©️](http://ccmixter.org/how-to-attribute-ccmixter-tracks)  ccMixter.org offers over 30,000 original tracks that can be used freely in YouTube videos, remixes, mobile apps, games, and more.
 -   [Free Loops](http://free-loops.com/)  -  [©️](http://free-loops.com/creative-commons-audio.php)  Free loops and audio clip.
@@ -132,7 +134,7 @@ All of the Stock photos below are under a CC0 License.
 - [Newtubers](https://www.reddit.com/r/newtubers) - A community for small content creators. Has a subreddit and Discord channel to talk with likeminded creators.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNDg1MTI1NCw2MDg1NzYxMDEsLTE2MD
-MwMDYyMCwxOTEwMTczNjE2LC0xNTEyMDk4ODI2LC0yMDQzMTQ1
-NjQzLC0xOTY3MzE1OTg5XX0=
+eyJoaXN0b3J5IjpbLTE4NDUzNDE5NzgsLTMxNDg1MTI1NCw2MD
+g1NzYxMDEsLTE2MDMwMDYyMCwxOTEwMTczNjE2LC0xNTEyMDk4
+ODI2LC0yMDQzMTQ1NjQzLC0xOTY3MzE1OTg5XX0=
 -->
