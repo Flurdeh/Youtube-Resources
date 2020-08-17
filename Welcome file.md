@@ -37,6 +37,7 @@ Many years ago, all you had to worry about was Windows Movie Maker. We live in m
 # Image editing software
 # Music
 # Stock Footage
+## Stock video
 -   [Coverr](http://coverr.co/)  -  [©️](https://creativecommons.org/publicdomain/zero/1.0/)  Beautiful, free, CC0 licensed videos for your homepage. 7 new videos every Monday.
 -   [Life of Vids](http://www.lifeofvids.com/)  -  [©️](https://creativecommons.org/publicdomain/zero/1.0/)  Free royalty-free videos, clips & loops.
 -   [Mazwai](http://mazwai.com/)  - Great collection of free creative commons HD video clips & footages. Check each video for licensing terms.
@@ -45,9 +46,56 @@ Many years ago, all you had to worry about was Windows Movie Maker. We live in m
 -   [Videezy](https://www.videezy.com/)  -  [©️](https://www.videezy.com/terms)  Free stock videos, 4k footage, and free HD video clips.
 -   [Vidsplay](http://www.vidsplay.com/)  -  [©️](http://www.vidsplay.com/terms.html)  Free HD stock footage (Attribution required).
 -   [VYOO](http://www.veed.io/vyoo)  -  [©️](http://www.veed.io/vyoo/terms)  Beautiful, Free Vertical Videos.
+
+## Stock Photos
+-   [ABSFreePic](http://absfreepic.com/)  - A high-resolution and absolutely free photos stock site.
+-   [Altphotos](https://altphotos.com/)  - Handpicked free high-resolution photos added daily.
+-   [Barn Images](https://barnimages.com/)  - Barn Images offers you a collection of free high-resolution non-stock photography.
+-   [CC0 Photo](http://cc0.photo/)  - CC0.photo is a project initiated by Raffael Herrmann, which serves you with free photos.
+-   [Creative Commons Search](http://search.creativecommons.org/)  - A meta search across several libaries to find adaptable / editable images
+-   [Crow the Stone](http://crowthestone.tumblr.com/)  - Free photos to use any way you want.
+-   [Cupcake](http://cupcake.nilssonlee.se/)  - Free do what ever you want photos by  [Jonas Nilsson Lee](https://twitter.com/nilsson_jonas).
+-   [Epicantus](http://epicantus.tumblr.com/)  - Hi-resolution photos added every week.
+-   [Fancy Crave](http://fancycrave.com/)  - Two new images added every day.
+-   [FindA.Photo](http://finda.photo/)  - search through thousands of CC0 photos by keyword and color.
+-   [Free Nature Stock](http://freenaturestock.com/)  - Royalty-free, use them however you want, Nature Stock Photos.
+-   [Freely Photos](https://freelyphotos.com/)  - Totally free high quality Christian stock photography.
+-   [Furious Camera](http://furiouscamera.com/)  - Free Life Hi-Fi Photos for use on your personal and commercial projects. New photo every day.
+-   [Gratisography](https://gratisography.com/)  - Free high-resolution pictures you can use on your personal and commercial projects. New pictures added weekly.
+-   [Jay Mantri](http://jaymantri.com/)  - Free pics. Do anything. Make magic.
+-   [Jéshoots](http://jeshoots.com/)  - Photos for business or personal use in high resolution for free.
+-   [LibreShot](https://libreshot.com/)  - A collection of hundreds of high quality free stock images for personal or commercial use.
+-   [Life of Pix](http://www.lifeofpix.com/)  - Free high-resolution photos, no copyright restrictions. Photographs added weekly.
+-   [Little Visuals](http://littlevisuals.co/)  - Hi-res images zipped up in your inbox. Use them anyway you want.
+-   [Magdeleine](https://magdeleine.co/browse/)  - A selection of free photos curated by  [Magdeleine](https://twitter.com/MagdeleinePhoto).
+-   [MMT](https://mmtstock.com/)  - New photos by  [Jeffrey Betts](http://jeffreybetts.me/)  added every week.
+-   [Moveast](http://moveast.me/)  - This is a journey of a Portuguese guy moving.
+-   [Negative Space](https://negativespace.co/)  - Stock photos added every week.
+-   [Pexels](https://www.pexels.com/)  - 20 new high-quality photos daily.
+-   [Photo Crops](https://www.photocrops.com/)  - Five high resolution photos added every week, sometimes more.
+-   [Pickle Jar](http://www.picklejar.in/)  - High-resolution images of everyday india. One new image every day.
+-   [Pickupimage](http://pickupimage.com/)  - Free download high quality premium free stock images, public domain photos.
+-   [Pixabay](https://pixabay.com/)  - Stock photos, illustrations, vectors and videos.
+-   [Realgraphy](https://realgraphy.org/)  - Authentic Non-Stock Photos for Free. Forever.
+-   [Realistic Shots](http://realisticshots.com/)  - 7 new photos added every week.
+-   [Skitter Photo](https://skitterphoto.com/)  - Public domain pictures and stock photos for commercial use.
+-   [Skuawk](http://skuawk.com/)  - Skuawk public domain photos, free, beautiful and artistically loud.
+-   [Snappy Goat](https://snappygoat.com/)  - Over 12 million public domain & CC0 licensed images.
+-   [Snapwire Snaps](http://snapwiresnaps.tumblr.com/)  - Commissioned photos from 170,000 of the world's most talented photographers.
+-   [SpaceX Photos](https://www.flickr.com/photos/spacex/)  - Promotional SpaceX stock photography.
+-   [Splashbase](http://www.splashbase.co/)  - Search & discover free, hi res photos & videos.
+-   [Stock Image Point](http://www.stock-image-point.com/)  - Free stock photos. 20 pictures added every month.
+-   [Stockified](https://www.stockified.com/)  - Free pictures taken in India by Kiran BV and  [Aditya G Bharadwaj](http://ab-dz.com/).
+-   [Stocksnap](https://stocksnap.io/)  - Hundreds of high resolution images added weekly.
+-   [Stokpic](http://stokpic.com/)  - Free Stock Photos For Commercial Use.
+-   [Streetwill](http://streetwill.co/)  - Free hi-res vintage photos to use any way you want.
+-   [The Pic Pac](https://thepicpac.com/)  - New pacs on Monday, free pics Tuesday - Sunday.
+-   [Travel Coffee Book](http://travelcoffeebook.com/)  - Travel photography.
+-   [Unsplash](https://unsplash.com/)  - User submitted, free high-resolution photos. 10 new photos every 10 days.
+-   [Wesaturate](https://www.wesaturate.com/)  - A collection of completely free CC0 images in RAW and JPG formats.
 # Communities
 - [Newtubers](https://www.reddit.com/r/newtubers) - A community for small content creators. Has a subreddit and Discord channel to talk with likeminded creators.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTkwODIwMjIsLTEwMjEwMzMwMF19
+eyJoaXN0b3J5IjpbLTEzOTgxODY1NjAsLTEwMjEwMzMwMF19
 -->
