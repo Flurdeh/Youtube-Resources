@@ -52,6 +52,9 @@ Sometimes you need video footage of things you can't film yourself. If this is t
 
 ## Stock Photos
 All of the Stock photos below are under a CC0 License.
+
+-   [Unsplash](https://unsplash.com/)  - User submitted, free high-resolution photos. 10 new photos every 10 days.
+-   [Wesaturate](https://www.wesaturate.com/)  - A collection of completely free CC0 images in RAW and JPG formats.
 -   [ABSFreePic](http://absfreepic.com/)  - A high-resolution and absolutely free photos stock site.
 -   [Altphotos](https://altphotos.com/)  - Handpicked free high-resolution photos added daily.
 -   [Barn Images](https://barnimages.com/)  - Barn Images offers you a collection of free high-resolution non-stock photography.
@@ -94,9 +97,7 @@ All of the Stock photos below are under a CC0 License.
 -   [Stokpic](http://stokpic.com/)  - Free Stock Photos For Commercial Use.
 -   [Streetwill](http://streetwill.co/)  - Free hi-res vintage photos to use any way you want.
 -   [The Pic Pac](https://thepicpac.com/)  - New pacs on Monday, free pics Tuesday - Sunday.
--   [Travel Coffee Book](http://travelcoffeebook.com/)  - Travel photography.
--   [Unsplash](https://unsplash.com/)  - User submitted, free high-resolution photos. 10 new photos every 10 days.
--   [Wesaturate](https://www.wesaturate.com/)  - A collection of completely free CC0 images in RAW and JPG formats.
+-   [Travel Coffee Book](http://travelcoffeebook.com/)  - Travel photography
 
 ## Paid Resources
 -   [Adobe Stock](https://stock.adobe.com/)  - Photos, Illustrations, Vectors.
@@ -109,5 +110,6 @@ All of the Stock photos below are under a CC0 License.
 - [Newtubers](https://www.reddit.com/r/newtubers) - A community for small content creators. Has a subreddit and Discord channel to talk with likeminded creators.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjczMTU5ODldfQ==
+eyJoaXN0b3J5IjpbLTIwNDMxNDU2NDMsLTE5NjczMTU5ODldfQ
+==
 -->
