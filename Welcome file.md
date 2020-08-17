@@ -37,7 +37,7 @@ Many years ago, all you had to worry about was Windows Movie Maker. We live in m
 # Image editing software
 # Music
 # Stock Footage
-Sometimes you need video footage of things you can't film yourself. If this is the case, stock footage can be very handy to use. But often this footage can be extremely expensive, luckily, there are plenty of websites that can provide you with footage just as good without having to pay anything. Some of these don't even need credit. **Despite what the description of each website says, it is a good idea to still look up on the website what the license is. Things may have changed or I may have got**
+Sometimes you need video footage of things you can't film yourself. If this is the case, stock footage can be very handy to use. But often this footage can be extremely expensive, luckily, there are plenty of websites that can provide you with footage just as good without having to pay anything. Some of these don't even need credit. **Despite what the description of each website says, it is a good idea to double check on the website what the license is.**
 ## Stock video
 -   [Pexels Videos](https://videos.pexels.com/)  -  [CC0](https://www.pexels.com/license/)  Completely free, CC0 licensed stock videos.
 -   [Coverr](http://coverr.co/)  -  [CC0](https://creativecommons.org/publicdomain/zero/1.0/)   7 new videos every Monday.
@@ -108,6 +108,6 @@ All of the Stock photos below are under a CC0 License.
 - [Newtubers](https://www.reddit.com/r/newtubers) - A community for small content creators. Has a subreddit and Discord channel to talk with likeminded creators.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjYwNDQ5ODEsLTEyNzc1NzI4MTMsLT
-EzOTgxODY1NjAsLTEwMjEwMzMwMF19
+eyJoaXN0b3J5IjpbMTU1MDczNTk0NSwtMTI3NzU3MjgxMywtMT
+M5ODE4NjU2MCwtMTAyMTAzMzAwXX0=
 -->
