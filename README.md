@@ -33,7 +33,9 @@ Many years ago, all you had to worry about was Windows Movie Maker. We live in m
 
 ## Paid
 - Adobe Premiere / After Effects
-- [Vegas Pro](https://www.vegascreativesoftware.com/us/) `Windows` - 
+
+- [Vegas Pro](https://www.vegascreativesoftware.com/us/) `Windows` - Has been around for a while, keep an eye out on Humble Bundle, as they generally have a bundle with Vegas Pro about twice a year.
+
 - Apple Final Cut Pro
 # Image editing software
 Creating thumbnails, a banner, and a logo are important parts of your YouTube channel. These are some image editing softwares you can use.
@@ -112,6 +114,6 @@ All of the Stock photos below are under a CC0 License.
 - [Newtubers](https://www.reddit.com/r/newtubers) - A community for small content creators. Has a subreddit and Discord channel to talk with likeminded creators.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgxMjY2NDc4LC0xNTEyMDk4ODI2LC0yMD
-QzMTQ1NjQzLC0xOTY3MzE1OTg5XX0=
+eyJoaXN0b3J5IjpbLTc2NjM2MTQxMywtMTUxMjA5ODgyNiwtMj
+A0MzE0NTY0MywtMTk2NzMxNTk4OV19
 -->
