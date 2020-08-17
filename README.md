@@ -10,37 +10,37 @@ This page is maintained by [Flurdeh](https://twitter.com/Flurdeh), if you have a
 If you want to record a video game on your computer, or just your computer in general. You will need a screen recorder. Honestly, there really are very few choices that are worth considering.
 ## Free
 
- - [OBS (Open Broadcaster Software)](https://obsproject.com/) - `Windows/Mac/Linux` This is probably the most common recommendation when it comes to screen recorders, and honestly? The only one to seriously consider. Lots of options and also allows you to stream. This really is the most obvious choice. [(Quick Start Guide)](https://obsproject.com/wiki/OBS-Studio-Quickstart). There is another version called [Streamlabs OBS](https://streamlabs.com/streamlabs-obs) that is more geared towards streamers.
+ - [OBS (Open Broadcaster Software)](https://obsproject.com/) `Windows/Mac/Linux` - This is probably the most common recommendation when it comes to screen recorders, and honestly? The only one to seriously consider. Lots of options and also allows you to stream. This really is the most obvious choice. [(Quick Start Guide)](https://obsproject.com/wiki/OBS-Studio-Quickstart). There is another version called [Streamlabs OBS](https://streamlabs.com/streamlabs-obs) that is more geared towards streamers.
 
- - [Nvidia Shadowplay](https://www.nvidia.com/nl-nl/geforce/geforce-experience/shadowplay/) - `Windows` You probably already have this on your computer if you have an Nvidia graphics card, but there aren't many options. You press a button and it records you whole screen. That's all there is to it.
+ - [Nvidia Shadowplay](https://www.nvidia.com/nl-nl/geforce/geforce-experience/shadowplay/) `Windows` - You probably already have this on your computer if you have an Nvidia graphics card, but there aren't many options. You press a button and it records you whole screen. That's all there is to it.
  
 ## Paid
 
-- [Bandicam](https://www.bandicam.com/) - `Windows` 
+- [Bandicam](https://www.bandicam.com/) `Windows` 
 # Video Editing Software
 Many years ago, all you had to worry about was Windows Movie Maker. We live in more civilized times now and there are many more options for the average person to edit their videos in.
 
 ## Free
-- [Hitfilm Express](https://fxhome.com/hitfilm-express) - `Windows/Mac` A good program to start with, looks similar to more professional software like Adobe Premiere and is a good stepping stone towards it if you want you to switch to it later.
+- [Hitfilm Express](https://fxhome.com/hitfilm-express) `Windows/Mac` - A good program to start with, looks similar to more professional software like Adobe Premiere and is a good stepping stone towards it if you want you to switch to it later.
  
-- [Davinci Resolve](https://www.blackmagicdesign.com/nl/products/davinciresolve/) - `Windows/Mac/Linux` Just like Hitfilm, its a good stepping stone to some paid software. Resolve has plenty of advanced features in the free version, but also has a paid version.
+- [Davinci Resolve](https://www.blackmagicdesign.com/nl/products/davinciresolve/) `Windows/Mac/Linux` -  Just like Hitfilm, its a good stepping stone to some paid software. Resolve has plenty of advanced features in the free version, but also has a paid version.
 
-- [iMovie](https://www.apple.com/imovie/) - `Mac` Great software for apple users. 
+- [iMovie](https://www.apple.com/imovie/) `Mac` - Great software for apple users. 
 
-- [Openshot](https://www.openshot.org/download/) - `Windows/Mac/Linux`
+- [Openshot](https://www.openshot.org/download/) `Windows/Mac/Linux` 
 
-- [Shotcut](https://shotcut.org/) - `Windows/Mac/Linux`
+- [Shotcut](https://shotcut.org/) `Windows/Mac/Linux`
 
 ## Paid
 - [Adobe Premiere](https://www.adobe.com/products/premiere.html) / [After Effects](https://www.adobe.com/products/aftereffects.html) `Windows/Mac` - Great software, but as with any adobe product, you pay a hefty price for it.
 
 - [Vegas Pro](https://www.vegascreativesoftware.com/us/) `Windows` - Has been around for a while, keep an eye out on Humble Bundle, as they generally have a bundle with Vegas Pro about twice a year.
 
-- [Apple Final Cut Pro](https://www.apple.com/nl/final-cut-pro/)
+- [Apple Final Cut Pro](https://www.apple.com/nl/final-cut-pro/) `Mac`
 # Image editing software
 Creating thumbnails, a banner, and a logo are important parts of your YouTube channel. These are some image editing softwares you can use.
 ## Free
-
+[https://www.gimp.org/](https://www.gimp.org/)
 # Music
 # Stock Footage
 Sometimes you need video footage of things you can't film yourself. If this is the case, stock footage can be very handy to use. But often this footage can be extremely expensive, luckily, there are plenty of websites that can provide you with footage just as good without having to pay anything. Some of these don't even need credit. **Despite what the description of each website says, it is a good idea to double check on the website what the license is.**
@@ -114,6 +114,6 @@ All of the Stock photos below are under a CC0 License.
 - [Newtubers](https://www.reddit.com/r/newtubers) - A community for small content creators. Has a subreddit and Discord channel to talk with likeminded creators.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMTU4ODE0NCwtMTUxMjA5ODgyNiwtMj
-A0MzE0NTY0MywtMTk2NzMxNTk4OV19
+eyJoaXN0b3J5IjpbLTIwMjkyMTI5MTUsLTE1MTIwOTg4MjYsLT
+IwNDMxNDU2NDMsLTE5NjczMTU5ODldfQ==
 -->
