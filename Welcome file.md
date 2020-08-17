@@ -38,7 +38,8 @@ Many years ago, all you had to worry about was Windows Movie Maker. We live in m
 # Music
 # Stock Footage
 ## Stock video
--   [Coverr](http://coverr.co/)  -  [©️](https://creativecommons.org/publicdomain/zero/1.0/)  Beautiful, free, CC0 licensed videos for your homepage. 7 new videos every Monday.
+
+-   [Coverr](http://coverr.co/)  -  [CC0](https://creativecommons.org/publicdomain/zero/1.0/)   7 new videos every Monday.
 -   [Life of Vids](http://www.lifeofvids.com/)  -  [©️](https://creativecommons.org/publicdomain/zero/1.0/)  Free royalty-free videos, clips & loops.
 -   [Mazwai](http://mazwai.com/)  - Great collection of free creative commons HD video clips & footages. Check each video for licensing terms.
 -   [Pexels Videos](https://videos.pexels.com/)  -  [©️](https://creativecommons.org/publicdomain/zero/1.0/)  Completely free, CC0 licensed stock videos.
@@ -106,6 +107,6 @@ All of the Stock photos below are under a CC0 License.
 - [Newtubers](https://www.reddit.com/r/newtubers) - A community for small content creators. Has a subreddit and Discord channel to talk with likeminded creators.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NDY4NDc4LC0xMjc3NTcyODEzLC0xMz
-k4MTg2NTYwLC0xMDIxMDMzMDBdfQ==
+eyJoaXN0b3J5IjpbLTIxOTU0NTA2NCwtMTI3NzU3MjgxMywtMT
+M5ODE4NjU2MCwtMTAyMTAzMzAwXX0=
 -->
