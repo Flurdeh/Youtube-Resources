@@ -49,7 +49,7 @@ Creating thumbnails, a banner, and a logo are important parts of your YouTube ch
 ## Paid
 - [Photoshop](https://www.adobe.com/products/photoshop.html) `Windows/Mac` - Everybody and their mother knows Photoshop. Adobe offers a subscription for Photoshop+Lightroom that is cheaper than their Creative Cloud subscription.
 
-- [Affinity Photo](https://affinity.serif.com/en-gb/photo/) `Windows/Mac` - Looks similar-ish to Photoshop, one time purchas
+- [Affinity Photo](https://affinity.serif.com/en-gb/photo/) `Windows/Mac` - Looks similar-ish to Photoshop and is more geared to photo editing but can definitely do thumbnails. One time purchase.
 # Music
 # Stock Footage
 Sometimes you need video footage of things you can't film yourself. If this is the case, stock footage can be very handy to use. But often this footage can be extremely expensive, luckily, there are plenty of websites that can provide you with footage just as good without having to pay anything. Some of these don't even need credit. **Despite what the description of each website says, it is a good idea to double check on the website what the license is.**
@@ -123,7 +123,7 @@ All of the Stock photos below are under a CC0 License.
 - [Newtubers](https://www.reddit.com/r/newtubers) - A community for small content creators. Has a subreddit and Discord channel to talk with likeminded creators.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDA5NjU0MjEsLTE2MDMwMDYyMCwxOT
-EwMTczNjE2LC0xNTEyMDk4ODI2LC0yMDQzMTQ1NjQzLC0xOTY3
-MzE1OTg5XX0=
+eyJoaXN0b3J5IjpbLTUwMjYwMTE3MywtMTYwMzAwNjIwLDE5MT
+AxNzM2MTYsLTE1MTIwOTg4MjYsLTIwNDMxNDU2NDMsLTE5Njcz
+MTU5ODldfQ==
 -->
