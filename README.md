@@ -53,7 +53,7 @@ Creating thumbnails, a banner, and a logo are important parts of your YouTube ch
 # Music & Sounds
 A very common question being asked when making videos on YouTube is "How do I know what music I can use?" and "Where can I find music for my videos?" YouTube's [audio library](https://www.youtube.com/audiolibrary/music) is a good place to start. YouTube used to have a page where you could look what the licenses of music was, but they've retired it with the introduction of the new creator studio.
 
-**A common misconception when searching for music is that people look for royalty free music. Please note that this is not copyright free, see [here](https://www.dl-sounds.com/copyright-free-vs-royalty-free).**
+**A common misconception when searching for music is that people look for royalty free music. Please note that this is not copyright free, and can still fall under copyrighted content. See [here](https://www.dl-sounds.com/copyright-free-vs-royalty-free).**
 
 ## Free
 
@@ -138,7 +138,7 @@ All of the Stock photos below are under a CC0 License.
 - [Newtubers](https://www.reddit.com/r/newtubers) - A community for small content creators. Has a subreddit and Discord channel to talk with likeminded creators.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MjcwODA3MiwtMzE0ODUxMjU0LDYwOD
+eyJoaXN0b3J5IjpbMTg4MzY1MTM4OSwtMzE0ODUxMjU0LDYwOD
 U3NjEwMSwtMTYwMzAwNjIwLDE5MTAxNzM2MTYsLTE1MTIwOTg4
 MjYsLTIwNDMxNDU2NDMsLTE5NjczMTU5ODldfQ==
 -->
