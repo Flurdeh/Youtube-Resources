@@ -94,10 +94,18 @@ All of the Stock photos below are under a CC0 License.
 -   [Travel Coffee Book](http://travelcoffeebook.com/)  - Travel photography.
 -   [Unsplash](https://unsplash.com/)  - User submitted, free high-resolution photos. 10 new photos every 10 days.
 -   [Wesaturate](https://www.wesaturate.com/)  - A collection of completely free CC0 images in RAW and JPG formats.
+
+## Paid Resources
+-   [Adobe Stock](https://stock.adobe.com/)  - Photos, Illustrations, Vectors.
+-   [Fotolia](https://us.fotolia.com/)  - Photos, Illustrations, Vectors, Videos.
+-   [Inky Deals](https://www.inkydeals.com/)  - Premium resources at insane discounts.
+-   [Shutterstock](https://www.shutterstock.com/)  - Photos, Vectors, Editorial, Footages, Music.
+-   [Stocksy](https://www.stocksy.com/)  - "Cliché-free" Photos.
+-   [Graphic River](https://graphicriver.net/)  - Hand-reviewed graphic assets from a community of designers. .
 # Communities
 - [Newtubers](https://www.reddit.com/r/newtubers) - A community for small content creators. Has a subreddit and Discord channel to talk with likeminded creators.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzc1NzI4MTMsLTEzOTgxODY1NjAsLT
-EwMjEwMzMwMF19
+eyJoaXN0b3J5IjpbLTQ1NzY1OTYxMiwtMTI3NzU3MjgxMywtMT
+M5ODE4NjU2MCwtMTAyMTAzMzAwXX0=
 -->
