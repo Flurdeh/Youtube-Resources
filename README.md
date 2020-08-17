@@ -65,7 +65,6 @@ All of the Stock photos below are under a CC0 License.
 -   [Epicantus](http://epicantus.tumblr.com/)  - Hi-resolution photos added every week.
 -   [Fancy Crave](http://fancycrave.com/)  - Two new images added every day.
 -   [FindA.Photo](http://finda.photo/)  - search through thousands of CC0 photos by keyword and color.
--   [Free Nature Stock](http://freenaturestock.com/)  - Royalty-free, use them however you want, Nature Stock Photos.
 -   [Freely Photos](https://freelyphotos.com/)  - Totally free high quality Christian stock photography.
 -   [Furious Camera](http://furiouscamera.com/)  - Free Life Hi-Fi Photos for use on your personal and commercial projects. New photo every day.
 -   [Gratisography](https://gratisography.com/)  - Free high-resolution pictures you can use on your personal and commercial projects. New pictures added weekly.
@@ -110,6 +109,6 @@ All of the Stock photos below are under a CC0 License.
 - [Newtubers](https://www.reddit.com/r/newtubers) - A community for small content creators. Has a subreddit and Discord channel to talk with likeminded creators.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDMxNDU2NDMsLTE5NjczMTU5ODldfQ
-==
+eyJoaXN0b3J5IjpbLTE4NTUyMzI0OTUsLTIwNDMxNDU2NDMsLT
+E5NjczMTU5ODldfQ==
 -->
