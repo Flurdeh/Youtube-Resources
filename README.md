@@ -32,7 +32,7 @@ Many years ago, all you had to worry about was Windows Movie Maker. We live in m
 - [Shotcut](https://shotcut.org/) - `Windows/Mac/Linux`
 
 ## Paid
-- Adobe Premiere / After Effects
+- [Adobe Premiere](https://www.adobe.com/products/premiere.html) / After Effects
 
 - [Vegas Pro](https://www.vegascreativesoftware.com/us/) `Windows` - Has been around for a while, keep an eye out on Humble Bundle, as they generally have a bundle with Vegas Pro about twice a year.
 
@@ -114,6 +114,6 @@ All of the Stock photos below are under a CC0 License.
 - [Newtubers](https://www.reddit.com/r/newtubers) - A community for small content creators. Has a subreddit and Discord channel to talk with likeminded creators.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NjM2MTQxMywtMTUxMjA5ODgyNiwtMj
+eyJoaXN0b3J5IjpbLTU3MTQ2MjIwNiwtMTUxMjA5ODgyNiwtMj
 A0MzE0NTY0MywtMTk2NzMxNTk4OV19
 -->
