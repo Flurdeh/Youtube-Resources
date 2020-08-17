@@ -51,6 +51,17 @@ Creating thumbnails, a banner, and a logo are important parts of your YouTube ch
 
 - [Affinity Photo](https://affinity.serif.com/en-gb/photo/) `Windows/Mac` - Looks similar-ish to Photoshop and is more geared to photo editing but can definitely do thumbnails. One time purchase.
 # Music & Sounds
+-   [Bensound](https://www.bensound.com/)  -  [©️](https://www.bensound.com/licensing)  Royalty free music by Bensound.
+-   [ccMixter](http://ccmixter.org/)  -  [©️](http://ccmixter.org/how-to-attribute-ccmixter-tracks)  ccMixter.org offers over 30,000 original tracks that can be used freely in YouTube videos, remixes, mobile apps, games, and more.
+-   [Free Loops](http://free-loops.com/)  -  [©️](http://free-loops.com/creative-commons-audio.php)  Free loops and audio clip.
+-   [Free Music Archive](http://freemusicarchive.org/)  -  [©️](https://creativecommons.org/)  An interactive library of high-quality, legal audio downloads directed by  [WFMU](https://wfmu.org/), the most renowned freeform radio station in America.
+-   [Freesound](https://freesound.org/)  -  [©️](https://freesound.org/help/about/)  Collaborative database of audio snippets, samples, recordings and bleeps.
+-   [Internet Archive’s Netlabels Collection](https://archive.org/details/netlabels)  -  [©️](https://creativecommons.org/)  Netlabels collection hosts complete, freely downloadable/streamable.
+-   [Jamendo](https://www.jamendo.com/start)  -  [©️](https://creativecommons.org/)  Independent music community with a large collect of creative commons licensed music.
+-   [Jukedeck](https://www.jukedeck.com/)  -  [©️](https://www.jukedeck.com/licensing)  Machine learning powered royalty-free original music.
+-   [Sound Image](http://soundimage.org/)  -  [©️](https://creativecommons.org/licenses/by/4.0/)  Over 1000 tracks of free music and sound effects for your projects by Eric Matyas.
+-   [SoundBible](http://soundbible.com/)  -  [©️](http://soundbible.com/about.php)  Thousands of free sound effects, sound clips, and straight up sounds.
+-   [WOWA](https://www.wowa.me/)  -  [©️](https://www.wowa.me/cc0)  Download Royalty Free Music for YouTube Videos, Podcasts and Apps. No Copyright CC0 Music inspired by Unsplash.
 # Stock Footage
 Sometimes you need video footage of things you can't film yourself. If this is the case, stock footage can be very handy to use. But often this footage can be extremely expensive, luckily, there are plenty of websites that can provide you with footage just as good without having to pay anything. Some of these don't even need credit. **Despite what the description of each website says, it is a good idea to double check on the website what the license is.**
 ## Stock video
@@ -121,7 +132,7 @@ All of the Stock photos below are under a CC0 License.
 - [Newtubers](https://www.reddit.com/r/newtubers) - A community for small content creators. Has a subreddit and Discord channel to talk with likeminded creators.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA4NTc2MTAxLC0xNjAzMDA2MjAsMTkxMD
-E3MzYxNiwtMTUxMjA5ODgyNiwtMjA0MzE0NTY0MywtMTk2NzMx
-NTk4OV19
+eyJoaXN0b3J5IjpbLTMxNDg1MTI1NCw2MDg1NzYxMDEsLTE2MD
+MwMDYyMCwxOTEwMTczNjE2LC0xNTEyMDk4ODI2LC0yMDQzMTQ1
+NjQzLC0xOTY3MzE1OTg5XX0=
 -->
