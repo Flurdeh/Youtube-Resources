@@ -41,9 +41,13 @@ Many years ago, all you had to worry about was Windows Movie Maker. We live in m
 Creating thumbnails, a banner, and a logo are important parts of your YouTube channel. These are some image editing softwares you can use.
 ## Free
 - [GIMP](https://www.gimp.org/) `Windows/Mac/Linux` - Has been around forever as a Photoshop alternative. Open source and very popular.
-- 
+
+- [Photopea](https://www.photopea.com/) `Web browser` - Has been making a name for itself. Completely web browser based, no need to download anything.
 
 - [Paint.NET](https://www.getpaint.net/) `Windows` - Also has been around for years. A bit more lightweight than GIMP but can still do a decent enough job.
+
+## Paid
+- [Photoshop](https://www.adobe.com/products/photoshop.html) `Windows/Mac` - Everybody and their mother knows Photoshop. 
 # Music
 # Stock Footage
 Sometimes you need video footage of things you can't film yourself. If this is the case, stock footage can be very handy to use. But often this footage can be extremely expensive, luckily, there are plenty of websites that can provide you with footage just as good without having to pay anything. Some of these don't even need credit. **Despite what the description of each website says, it is a good idea to double check on the website what the license is.**
@@ -117,6 +121,6 @@ All of the Stock photos below are under a CC0 License.
 - [Newtubers](https://www.reddit.com/r/newtubers) - A community for small content creators. Has a subreddit and Discord channel to talk with likeminded creators.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzYyMzExNDYsMTkxMDE3MzYxNiwtMT
-UxMjA5ODgyNiwtMjA0MzE0NTY0MywtMTk2NzMxNTk4OV19
+eyJoaXN0b3J5IjpbLTE2MDMwMDYyMCwxOTEwMTczNjE2LC0xNT
+EyMDk4ODI2LC0yMDQzMTQ1NjQzLC0xOTY3MzE1OTg5XX0=
 -->
