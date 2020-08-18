@@ -121,3 +121,4 @@ All of the photo's below are free to use. Most under a CC0 license but as always
 -   [Graphic River](https://graphicriver.net/)  - Graphic Assets
 # Communities
 - [Newtubers](https://www.reddit.com/r/newtubers) - A community for small content creators. Has a subreddit and Discord channel to talk with likeminded creators.
+- [Youtube Subreddit](https://www.reddit.com/r/youtube/) - Another YouTube subreddit. Not just meant for creators, more related to YouTube as a website.
