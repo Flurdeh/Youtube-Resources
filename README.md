@@ -1,10 +1,11 @@
 
 
 
+
 # The Grand List of YouTube Resources
 So, you want you start making videos on YouTube, or you already are and are looking for more resources. This page is for you! This page is meant as a list of resources, guides, and other pointers to get you a good start for making videos. **Note that I will not be helping you pirate anything. All links provided here are to their official, legal websites.** 
 
-This page is maintained by [Flurdeh](https://twitter.com/Flurdeh), if you have anything to add shoot me a message on Twitter.
+This page is maintained by [Flurdeh](https://twitter.com/Flurdeh), if you have anything to add shoot me a message on Twitter or make a pull request.
 
 # Screen Recording Software
 If you want to record a video game on your computer, or just your computer in general. You will need a screen recorder. Honestly, there really are very few choices that are worth considering.
@@ -17,6 +18,10 @@ If you want to record a video game on your computer, or just your computer in ge
 ## Paid
 
 - [Bandicam](https://www.bandicam.com/) `Windows` 
+
+# Audio Recording Software
+There aren't too many of these that I know of. [Audacity](https://www.audacityteam.org/) is probably the most popular option here. If you have Adobe's Creative Cloud, [Audition](https://www.adobe.com/products/audition.html) might be worth a peek.
+
 # Video Editing Software
 Many years ago, all you had to worry about was Windows Movie Maker. We live in more civilized times now and there are many more options for the average person to edit their videos in.
 
@@ -76,52 +81,30 @@ Sometimes you need video footage of things you can't film yourself. If this is t
 -   [VYOO](http://www.veed.io/vyoo)  -  [CC0](http://www.veed.io/vyoo/terms)  Beautiful, Free Vertical Videos.
 
 ## Stock Photos
-All of the Stock photos below are under a CC0 License.
+All of the photo's below are free to use. Most under a CC0 license but as always, double check to make sure.
 
 -   [Unsplash](https://unsplash.com/)  - User submitted, free high-resolution photos. 10 new photos every 10 days.
--   [Wesaturate](https://www.wesaturate.com/)  - A collection of completely free CC0 images in RAW and JPG formats.
 -   [ABSFreePic](http://absfreepic.com/)  - A high-resolution and absolutely free photos stock site.
 -   [Altphotos](https://altphotos.com/)  - Handpicked free high-resolution photos added daily.
 -   [Barn Images](https://barnimages.com/)  - Barn Images offers you a collection of free high-resolution non-stock photography.
 -   [CC0 Photo](http://cc0.photo/)  - CC0.photo is a project initiated by Raffael Herrmann, which serves you with free photos.
--   [Creative Commons Search](http://search.creativecommons.org/)  - A meta search across several libaries to find adaptable / editable images
--   [Crow the Stone](http://crowthestone.tumblr.com/)  - Free photos to use any way you want.
--   [Cupcake](http://cupcake.nilssonlee.se/)  - Free do what ever you want photos by  [Jonas Nilsson Lee](https://twitter.com/nilsson_jonas).
--   [Epicantus](http://epicantus.tumblr.com/)  - Hi-resolution photos added every week.
--   [Fancy Crave](http://fancycrave.com/)  - Two new images added every day.
--   [FindA.Photo](http://finda.photo/)  - search through thousands of CC0 photos by keyword and color.
+-   [Creative Commons Search](http://search.creativecommons.org/)  - Search across several libaries to find adaptable / editable images
 -   [Freely Photos](https://freelyphotos.com/)  - Totally free high quality Christian stock photography.
--   [Furious Camera](http://furiouscamera.com/)  - Free Life Hi-Fi Photos for use on your personal and commercial projects. New photo every day.
 -   [Gratisography](https://gratisography.com/)  - Free high-resolution pictures you can use on your personal and commercial projects. New pictures added weekly.
 -   [Jay Mantri](http://jaymantri.com/)  - Free pics. Do anything. Make magic.
 -   [Jéshoots](http://jeshoots.com/)  - Photos for business or personal use in high resolution for free.
 -   [LibreShot](https://libreshot.com/)  - A collection of hundreds of high quality free stock images for personal or commercial use.
--   [Life of Pix](http://www.lifeofpix.com/)  - Free high-resolution photos, no copyright restrictions. Photographs added weekly.
 -   [Little Visuals](http://littlevisuals.co/)  - Hi-res images zipped up in your inbox. Use them anyway you want.
--   [Magdeleine](https://magdeleine.co/browse/)  - A selection of free photos curated by  [Magdeleine](https://twitter.com/MagdeleinePhoto).
--   [MMT](https://mmtstock.com/)  - New photos by  [Jeffrey Betts](http://jeffreybetts.me/)  added every week.
--   [Moveast](http://moveast.me/)  - This is a journey of a Portuguese guy moving.
+-   [Moveast](http://moveast.me/)  - Photo's of a Portugese guy moving
 -   [Negative Space](https://negativespace.co/)  - Stock photos added every week.
 -   [Pexels](https://www.pexels.com/)  - 20 new high-quality photos daily.
--   [Photo Crops](https://www.photocrops.com/)  - Five high resolution photos added every week, sometimes more.
--   [Pickle Jar](http://www.picklejar.in/)  - High-resolution images of everyday india. One new image every day.
--   [Pickupimage](http://pickupimage.com/)  - Free download high quality premium free stock images, public domain photos.
+-   [Pickupimage](http://pickupimage.com/)  - Free stock images, public domain photos.
 -   [Pixabay](https://pixabay.com/)  - Stock photos, illustrations, vectors and videos.
--   [Realgraphy](https://realgraphy.org/)  - Authentic Non-Stock Photos for Free. Forever.
--   [Realistic Shots](http://realisticshots.com/)  - 7 new photos added every week.
 -   [Skitter Photo](https://skitterphoto.com/)  - Public domain pictures and stock photos for commercial use.
 -   [Skuawk](http://skuawk.com/)  - Skuawk public domain photos, free, beautiful and artistically loud.
 -   [Snappy Goat](https://snappygoat.com/)  - Over 12 million public domain & CC0 licensed images.
--   [Snapwire Snaps](http://snapwiresnaps.tumblr.com/)  - Commissioned photos from 170,000 of the world's most talented photographers.
--   [SpaceX Photos](https://www.flickr.com/photos/spacex/)  - Promotional SpaceX stock photography.
--   [Splashbase](http://www.splashbase.co/)  - Search & discover free, hi res photos & videos.
--   [Stock Image Point](http://www.stock-image-point.com/)  - Free stock photos. 20 pictures added every month.
--   [Stockified](https://www.stockified.com/)  - Free pictures taken in India by Kiran BV and  [Aditya G Bharadwaj](http://ab-dz.com/).
+-   [Snapwire Snaps](http://snapwiresnaps.tumblr.com/)  - 7 new photo's every 7 days.
 -   [Stocksnap](https://stocksnap.io/)  - Hundreds of high resolution images added weekly.
--   [Stokpic](http://stokpic.com/)  - Free Stock Photos For Commercial Use.
--   [Streetwill](http://streetwill.co/)  - Free hi-res vintage photos to use any way you want.
--   [The Pic Pac](https://thepicpac.com/)  - New pacs on Monday, free pics Tuesday - Sunday.
--   [Travel Coffee Book](http://travelcoffeebook.com/)  - Travel photography
 
 ## Paid Resources
 -   [Adobe Stock](https://stock.adobe.com/)  - Photos, Illustrations, Vectors.
@@ -132,10 +115,3 @@ All of the Stock photos below are under a CC0 License.
 -   [Graphic River](https://graphicriver.net/)  - Graphic Assets
 # Communities
 - [Newtubers](https://www.reddit.com/r/newtubers) - A community for small content creators. Has a subreddit and Discord channel to talk with likeminded creators.
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NzYwNjQxNywtODA5NTM3MDQzLDkwMD
-E5NDE3MywxNzU0ODI4MDc0LC0zMTQ4NTEyNTQsNjA4NTc2MTAx
-LC0xNjAzMDA2MjAsMTkxMDE3MzYxNiwtMTUxMjA5ODgyNiwtMj
-A0MzE0NTY0MywtMTk2NzMxNTk4OV19
--->
