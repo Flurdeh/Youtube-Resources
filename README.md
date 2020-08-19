@@ -36,6 +36,8 @@ Many years ago, all you had to worry about was Windows Movie Maker. We live in m
  
 - [Davinci Resolve](https://www.blackmagicdesign.com/nl/products/davinciresolve/) `Windows/Mac/Linux` -  Just like Hitfilm, its a good stepping stone to some paid software. Resolve has plenty of advanced features in the free version, but also has a paid version.
 
+-[KDENLive](https://kdenlive.org/en/) `Windows//Linux` - A very full-featured open source video editor that has many professional features built in, as well as a library of compositing effects, and support for custom transistion masks. 
+
 - [iMovie](https://www.apple.com/imovie/) `Mac` - Great software for apple users. 
 
 - [Openshot](https://www.openshot.org/download/) `Windows/Mac/Linux` 
