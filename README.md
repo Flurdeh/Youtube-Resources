@@ -38,6 +38,8 @@ Many years ago, all you had to worry about was Windows Movie Maker. We live in m
 
 - [iMovie](https://www.apple.com/imovie/) `Mac` - Great software for apple users. 
 
+- [KDENLive](https://kdenlive.org/en/) `Windows/Linux` - A very full-featured open source video editor that has many professional features built in, as well as a library of compositing effects, and support for custom transistion masks. 
+
 - [Openshot](https://www.openshot.org/download/) `Windows/Mac/Linux` 
 
 - [Shotcut](https://shotcut.org/) `Windows/Mac/Linux`
