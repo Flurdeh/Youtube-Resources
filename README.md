@@ -80,13 +80,13 @@ A very common question being asked when making videos on YouTube is "How do I kn
 # Stock Footage
 Sometimes you need video footage of things you can't film yourself. If this is the case, stock footage can be very handy to use. But often this footage can be extremely expensive, luckily, there are plenty of websites that can provide you with footage just as good without having to pay anything. Some of these don't even need credit. **Despite what the description of each website says, it is a good idea to double check on the website what the license is.**
 ## Stock video
--   [Pexels Videos](https://videos.pexels.com/)  -  [CC0](https://www.pexels.com/license/)  Completely free, CC0 licensed stock videos.
--   [Coverr](http://coverr.co/)  -  [CC0](https://creativecommons.org/publicdomain/zero/1.0/)   7 new videos every Monday.
--   [Life of Vids](http://www.lifeofvids.com/)  -  [CC0](https://creativecommons.org/publicdomain/zero/1.0/) Videos, clips & loops.
+-   [Pexels Videos](https://videos.pexels.com/)  -  [©️](https://www.pexels.com/license/)  Completely free, CC0 licensed stock videos.
+-   [Coverr](http://coverr.co/)  -  [©️](https://creativecommons.org/publicdomain/zero/1.0/)   7 new videos every Monday.
+-   [Life of Vids](http://www.lifeofvids.com/)  -  [©️](https://creativecommons.org/publicdomain/zero/1.0/) Videos, clips & loops.
 -   [Mazwai](http://mazwai.com/)  - Great collection of free creative commons HD video clips & footages. Check each video for licensing terms.
 -   [Pond5](https://www.pond5.com/free)  - Thousands of historic media files that are public domain.
 - [Pixabay](https://pixabay.com/ "https://pixabay.com/") - Plenty of videos, make sure to read the license, since some may have a different license on this page.
--   [VYOO](http://www.veed.io/vyoo)  -  [CC0](http://www.veed.io/vyoo/terms)  Beautiful, Free Vertical Videos.
+-   [VYOO](http://www.veed.io/vyoo)  -  [©️](http://www.veed.io/vyoo/terms)  Beautiful, Free Vertical Videos.
 
 ## Stock Photos
 All of the photo's below are free to use. Most under a CC0 license but as always, double check to make sure.
