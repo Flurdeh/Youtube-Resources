@@ -2,6 +2,7 @@
 
 
 
+
 # The Grand List of YouTube Resources
 So, you want you start making videos on YouTube, or you already are and are looking for more resources. This page is for you! This page is meant as a list of resources, guides, and other pointers to get you a good start for making videos. **Note that I will not be helping you pirate anything. All links provided here are to their official, legal websites.** 
 
@@ -39,15 +40,18 @@ Many years ago, all you had to worry about was Windows Movie Maker. We live in m
 - [iMovie](https://www.apple.com/imovie/) `Mac` - Great software for apple users. 
 
 - [KDENLive](https://kdenlive.org/en/) `Windows/Linux` - A very full-featured open source video editor that has many professional features built in, as well as a library of compositing effects, and support for custom transistion masks. 
+-  [Avid Media Composer](https://www.avid.com/media-composer) `Windows/Mac` - Has a more basic free version with and a paid version.
 
 - [Openshot](https://www.openshot.org/download/) `Windows/Mac/Linux` 
 
 - [Shotcut](https://shotcut.org/) `Windows/Mac/Linux`
+- [Olive](https://www.olivevideoeditor.org/index.php) `Windows/Mac/Linux` - Newer video editor currently in alpha
 
 ## Paid
 - [Adobe Premiere](https://www.adobe.com/products/premiere.html) / [After Effects](https://www.adobe.com/products/aftereffects.html) `Windows/Mac` - Great software, but as with any adobe product, you pay a hefty price for it.
 
 - [Vegas Pro](https://www.vegascreativesoftware.com/us/) `Windows` - Has been around for a while, keep an eye out on Humble Bundle, as they generally have a bundle with Vegas Pro about twice a year.
+-  [Avid Media Composer](https://www.avid.com/media-composer) `Windows/Mac` - Has a more basic free version with and a paid version.
 
 - [Apple Final Cut Pro](https://www.apple.com/nl/final-cut-pro/) `Mac`
 # Image editing software
