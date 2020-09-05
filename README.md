@@ -70,6 +70,7 @@ A very common question being asked when making videos on YouTube is "How do I kn
 
 ## Free
 **Each website has a different license, make sure you read and understand them before using the music from the websites below.**
+-   [Youtube Audio Library](https://www.youtube.com/audiolibrary/music) - Youtube's own library for music and sounds
 -   [Bensound](https://www.bensound.com/) [©️](https://www.bensound.com/licensing) - Very popular website that many content creators have been using for their videos.
 -   [ccMixter](http://ccmixter.org/)  -  [©️](http://ccmixter.org/how-to-attribute-ccmixter-tracks) - Lots of tracks to use with a wide variety.
 -   [Free Music Archive](http://freemusicarchive.org/)  - An library of high-quality audio downloads directed by  [WFMU](https://wfmu.org/). Has music under every type of license.
