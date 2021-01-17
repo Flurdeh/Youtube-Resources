@@ -3,6 +3,7 @@
 
 
 
+
 # The Grand List of YouTube Resources
 So, you want you start making videos on YouTube, or you already are and are looking for more resources. This page is for you! This page is meant as a list of resources, guides, and other pointers to get you a good start for making videos. **Note that I will not be helping you pirate anything. All links provided here are to their official, legal websites.** 
 
@@ -26,7 +27,7 @@ If you want to record a video game on your computer, or just your computer in ge
 
 - [Bandicam](https://www.bandicam.com/) `Windows` 
 
-# Audio Recording Software
+# Audio Recording & Editing Software
 There aren't too many of these that I know of. [Audacity](https://www.audacityteam.org/) is probably the most popular option here. If you have Adobe's Creative Cloud, [Audition](https://www.adobe.com/products/audition.html) might be worth a peek.
 
 # Video Editing Software
@@ -47,6 +48,7 @@ Many years ago, all you had to worry about was Windows Movie Maker. We live in m
 - [Shotcut](https://shotcut.org/) `Windows/Mac/Linux`
 - [Olive](https://www.olivevideoeditor.org/index.php) `Windows/Mac/Linux` - Newer video editor currently in alpha
 
+
 ## Paid
 - [Adobe Premiere](https://www.adobe.com/products/premiere.html) / [After Effects](https://www.adobe.com/products/aftereffects.html) `Windows/Mac` - Great software, but as with any adobe product, you pay a hefty price for it.
 
@@ -54,11 +56,19 @@ Many years ago, all you had to worry about was Windows Movie Maker. We live in m
 -  [Avid Media Composer](https://www.avid.com/media-composer) `Windows/Mac` - Has a more basic free version with and a paid version.
 
 - [Apple Final Cut Pro](https://www.apple.com/nl/final-cut-pro/) `Mac`
+
+## Mobile
+I don't know much about mobile editors, but these are some of the ones I've found in my search for this list. Its a mix of free and paid software considering most of these have different versions.
+
+- [Inshot](https://inshot.com/) `Android/iOS`
+- [Kinemaster](https://www.kinemaster.com/) `Android/iOS` - Has some limits on the free version like video length. 
+- [Adobe Premiere Rush](https://www.adobe.com/products/premiere-rush.html) `Android/iOS` - Adobe's premiere but simplified for mobile. 
+- [iMovie](https://apps.apple.com/us/app/imovie/id377298193) `iOS` - Apple's video editor is also available for Iphone/Ipad.
 # Image editing software
 Creating thumbnails, a banner, and a logo are important parts of your YouTube channel. These are some image editing softwares you can use.
 ## Free
 - [GIMP](https://www.gimp.org/) `Windows/Mac/Linux` - Has been around forever as a Photoshop alternative. Open source and very popular.
-
+- [Canva](https://www.canva.com/create/youtube-thumbnails/) `Web Browser` - Free web based image editor. Has some templates to choose from to make things easier. Also has a premium version with more options.
 - [Photopea](https://www.photopea.com/) `Web browser` - Has been making a name for itself. Completely web browser based, no need to download anything.
 
 - [Paint.NET](https://www.getpaint.net/) `Windows` - Also has been around for years. A bit more lightweight than GIMP but can still do a decent enough job.
@@ -82,6 +92,10 @@ A very common question being asked when making videos on YouTube is "How do I kn
 -   [Freesound](https://freesound.org/)  - A database of music, sounds, samples and recordings. Each file has its own license, but has many under the CC0 license.
 -   [SoundBible](http://soundbible.com/)  -  [©️](http://soundbible.com/about.php) - A whole bunch of sound effects, sound clips, and sounds.
 -   [Unminus](https://www.unminus.com/)  - [©️](https://www.unminus.com/license)  Inspired by Unsplash, Unminus offers free Music for YouTube Videos, Podcasts and Apps. No copyright (CC0)
+- [Mixkit](https://mixkit.co/) - Various music, sound effects, videos, video templates and images available for free. Many require no attribution but make sure to check the license listed on the page of what you want before using it.
+- [Streambeats](https://www.streambeats.com/) - Music from different genres free to use for videos & streams. 
+- [Soundjay](https://www.soundjay.com/) - Sound effects of different categories, free to use. Attribution not required but appreciated.
+- [Bandcamp Creative Commons](https://bandcamp.com/tag/creative-commons) - Popular music site's creative commons section.
 # Stock Footage
 Sometimes you need video footage of things you can't film yourself. If this is the case, stock footage can be very handy to use. But often this footage can be extremely expensive, luckily, there are plenty of websites that can provide you with footage just as good without having to pay anything. Some of these don't even need credit. **Despite what the description of each website says, it is a good idea to double check on the website what the license is.**
 ## Stock video
@@ -92,6 +106,7 @@ Sometimes you need video footage of things you can't film yourself. If this is t
 -   [Pond5](https://www.pond5.com/free)  - Thousands of historic media files that are public domain.
 - [Pixabay](https://pixabay.com/ "https://pixabay.com/") - Plenty of videos, make sure to read the license, since some may have a different license on this page.
 -   [VYOO](http://www.veed.io/vyoo)  -  [©️](http://www.veed.io/vyoo/terms)  Beautiful, Free Vertical Videos.
+-  [Mixkit](https://mixkit.co/) - Various music, sound effects, videos, video templates and images available for free. Many require no attribution but make sure to check the license listed on the page of what you want before using it.
 
 ## Stock Photos
 All of the photo's below are free to use. Most under a CC0 license but as always, double check to make sure.
@@ -118,6 +133,7 @@ All of the photo's below are free to use. Most under a CC0 license but as always
 -   [Snappy Goat](https://snappygoat.com/)  - Over 12 million public domain & CC0 licensed images.
 -   [Snapwire Snaps](http://snapwiresnaps.tumblr.com/)  - 7 new photo's every 7 days.
 -   [Stocksnap](https://stocksnap.io/)  - Hundreds of high resolution images added weekly.
+-  [Mixkit](https://mixkit.co/) - Various music, sound effects, videos, video templates and images available for free. Many require no attribution but make sure to check the license listed on the page of what you want before using it.
 
 ## Paid Resources
 -   [Adobe Stock](https://stock.adobe.com/)  - Photos, Illustrations, Vectors.
