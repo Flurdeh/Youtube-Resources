@@ -41,7 +41,7 @@ Many years ago, all you had to worry about was Windows Movie Maker. We live in m
 - [iMovie](https://www.apple.com/imovie/) `Mac` - Great software for apple users. 
 
 - [KDENLive](https://kdenlive.org/en/) `Windows/Linux` - A very full-featured open source video editor that has many professional features built in, as well as a library of compositing effects, and support for custom transistion masks. 
--  [Avid Media Composer](https://www.avid.com/media-composer) `Windows/Mac` - Has a more basic free version with and a paid version.
+-  [Avid Media Composer](https://www.avid.com/media-composer) `Windows/Mac` - This software is a standard in the film industry. Has a more basic free version with and a paid version.
 
 - [Openshot](https://www.openshot.org/download/) `Windows/Mac/Linux` 
 
