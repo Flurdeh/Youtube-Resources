@@ -22,10 +22,12 @@ If you want to record a video game on your computer, or just your computer in ge
  - [OBS (Open Broadcaster Software)](https://obsproject.com/) `Windows/Mac/Linux` - This is probably the most common recommendation when it comes to screen recorders, and honestly? The only one to seriously consider. Lots of options and also allows you to stream. This really is the most obvious choice. [(Quick Start Guide)](https://obsproject.com/wiki/OBS-Studio-Quickstart). There is another version called [Streamlabs OBS](https://streamlabs.com/streamlabs-obs) that is more geared towards streamers.
 
  - [Nvidia Shadowplay](https://www.nvidia.com/nl-nl/geforce/geforce-experience/shadowplay/) `Windows` - You probably already have this on your computer if you have an Nvidia graphics card, but there aren't many options. You press a button and it records you whole screen. That's all there is to it.
+ - [Mac Screen Recorder](https://support.apple.com/en-us/HT208721) `Mac` - Apples built in screen recorder, very basic but may do a good enough job for what you need.
  
 ## Paid
 
 - [Bandicam](https://www.bandicam.com/) `Windows` 
+- [Xsplit](https://www.xsplit.com/)  `Windows`
 
 # Audio Recording & Editing Software
 There aren't too many of these that I know of. [Audacity](https://www.audacityteam.org/) is probably the most popular option here. If you have Adobe's Creative Cloud, [Audition](https://www.adobe.com/products/audition.html) might be worth a peek.
@@ -143,5 +145,4 @@ All of the photo's below are free to use. Most under a CC0 license but as always
 -   [Stocksy](https://www.stocksy.com/)  - Photos & Videos.
 -   [Graphic River](https://graphicriver.net/)  - Graphic Assets
 # Communities
-- [Newtubers](https://www.reddit.com/r/newtubers) - A community for small content creators. Has a subreddit and Discord channel to talk with likeminded creators.
 - [Youtube Subreddit](https://www.reddit.com/r/youtube/) - Another YouTube subreddit. Not just meant for creators, more related to YouTube as a website.
