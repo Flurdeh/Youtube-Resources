@@ -144,5 +144,3 @@ All of the photo's below are free to use. Most under a CC0 license but as always
 -   [Shutterstock](https://www.shutterstock.com/)  - Everybody knows Shutterstock. Photos, Vectors, Editorial, Footages, Music.
 -   [Stocksy](https://www.stocksy.com/)  - Photos & Videos.
 -   [Graphic River](https://graphicriver.net/)  - Graphic Assets
-# Communities
-- [Youtube Subreddit](https://www.reddit.com/r/youtube/) - Another YouTube subreddit. Not just meant for creators, more related to YouTube as a website.
