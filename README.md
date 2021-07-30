@@ -13,7 +13,6 @@ This page is maintained by [Flurdeh](https://twitter.com/Flurdeh), if you have a
 1. [Recording and Editing Software](https://github.com/Flurdeh/Youtube-Resources#screen-recording-software) 
 2. [Music](https://github.com/Flurdeh/Youtube-Resources#music--sounds)
 3. [Stock Footage & Images](https://github.com/Flurdeh/Youtube-Resources#stock-footage)
-4. [Communities & Websites](https://github.com/Flurdeh/Youtube-Resources#stock-footage)
 
 # Screen Recording Software
 If you want to record a video game on your computer, or just your computer in general. You will need a screen recorder. Honestly, there really are very few choices that are worth considering.
@@ -23,6 +22,7 @@ If you want to record a video game on your computer, or just your computer in ge
 
  - [Nvidia Shadowplay](https://www.nvidia.com/nl-nl/geforce/geforce-experience/shadowplay/) `Windows` - You probably already have this on your computer if you have an Nvidia graphics card, but there aren't many options. You press a button and it records you whole screen. That's all there is to it.
  - [Mac Screen Recorder](https://support.apple.com/en-us/HT208721) `Mac` - Apples built in screen recorder, very basic but may do a good enough job for what you need.
+ - [Android](https://support.google.com/android/answer/9075928?hl=en)/[iOS](https://support.apple.com/en-us/HT207935) Screen Capture - If you're on a phone or tablet, most devices in recent years have recording software built in.
  
 ## Paid
 
