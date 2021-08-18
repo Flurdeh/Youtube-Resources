@@ -59,7 +59,7 @@ Many years ago, all you had to worry about was Windows Movie Maker. We live in m
 
 - [Apple Final Cut Pro](https://www.apple.com/nl/final-cut-pro/) `Mac`
 
-# (Bonus) Making Gifs
+## (Bonus) Making Gifs
 Most video & image editors have the ability to make gifs, but often its difficult to optimize especially longer gifs to be uploaded on places like Discord, Twitter, Tumblr, Imgur and so on. If you do want to do it through your video editor or image editor, try limiting your image size to e.g. 540x304 and your fps to 20. What you could also do is simply render your video as an mp4 and upload it to [Gfycat](https://gfycat.com/).
 
 ## Mobile
